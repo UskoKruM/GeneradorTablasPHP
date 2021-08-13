@@ -16,7 +16,7 @@ if (isset($_GET['filas']) && isset($_GET['columnas'])) {
     <body>
         <?php
         // include_once './Adicionales/manejoFechaHora.php';
-        $colores = Array(
+        $colores = array(
             "aliceblue",
             "antiquewhite",
             "aqua",
