@@ -4,6 +4,12 @@ Aplicación web desarrollada con PHP para generar tablas dinámicas con colores 
 
 ![](./preview.JPG)
 
+## Instrucciones:
+
+Pasar los parámetros directamente en la URL:
+
+`http://localhost/GeneradorTablas/generadorTabla.php?filas=15&columnas=30`
+
 ## 🌍 Mis redes sociales, por si deseas contactarme 👨‍💻 :
 
 - [LinkedIn](https://pe.linkedin.com/in/uskokrum2010)
